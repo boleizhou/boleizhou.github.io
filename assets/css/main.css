@@ -31,7 +31,7 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
-  --global-theme-color: #3cb3d7;
+  --global-theme-color: rgb(59.8660714286, 179.4642857143, 215.1339285714);
   --global-hover-color: #2698BA;
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #1c1c1c;
