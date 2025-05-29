@@ -251,7 +251,7 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
-  width: 95px;
+  width: 100px;
 }
 
 .news table.table-sm th, table.table-sm td {
